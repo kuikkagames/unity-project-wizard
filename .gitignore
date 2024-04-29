@@ -46,6 +46,9 @@ ExportedObj/
 
 # VS Code generated files
 .history/
+
+# Rider generated files
+.idea/
  
 # Unity3D generated meta files
 *.pidb.meta
