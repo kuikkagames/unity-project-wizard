@@ -102,3 +102,6 @@ fmod_editor.log
 /FMOD/**.unsaved
 /FMOD/**.cache
 /FMOD/**.restore
+
+# Ignore content of the Assets folder since that is the path we are going to modify with the tool  
+/Assets/*
