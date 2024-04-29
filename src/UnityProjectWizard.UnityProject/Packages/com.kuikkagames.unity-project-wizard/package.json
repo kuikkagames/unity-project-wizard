@@ -1,0 +1,25 @@
+{
+  "name": "com.kuikkagames.unity-project-wizard",
+  "version": "0.0.1-preview.1",
+  "displayName": "Unity Project Wizard",
+  "unity": "2022.3",
+  "description": "Setup assistant for configuring new Unity projects.",
+  "keywords": [
+    "editor",
+    "utility",
+    "config",
+    "kuikkagames",
+    "mekyi"
+  ],
+  "author": {
+    "name": "Kuikka Games",
+    "email": "mikael.bjorke@kuikkagames.com",
+    "url": "https://github.com/kuikkagames"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kuikkagames/unity-project-wizard.git"
+  },
+  "license": "MIT",
+  "licensesUrl": "https://github.com/kuikkagames/unity-project-wizard/blob/main/LICENSE"
+}

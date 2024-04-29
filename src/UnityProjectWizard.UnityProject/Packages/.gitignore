@@ -1,0 +1,3 @@
+# Don't ignore project related files
+!com.kuikkagames.unity-project-wizard
+!**/*.meta
