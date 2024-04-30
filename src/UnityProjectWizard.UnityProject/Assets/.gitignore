@@ -1,0 +1,3 @@
+# Ignore content of the Assets folder since it is the path we are modifying with the tool  
+*
+!.gitignore
